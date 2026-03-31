@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Feedback | Cosmic Feast Archive</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html">
+        <span class="brand__title">Cosmic Feast Archive</span>
+        <span class="brand__subtitle">A fantasy cookbook from the stars</span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="index.html">Home</a>
+        <a href="all-recipes.html">All Recipes</a>
+        <details class="nav-menu">
+          <summary>Recipe Pages (12)</summary>
+          <div class="nav-menu__panel nav-menu__panel--recipes">
+            <a href="lunar-herb-pasta.html">Lunar Herb Pasta</a>
+            <a href="solar-spice-soup.html">Solar Spice Soup</a>
+            <a href="crystal-garden-salad.html">Crystal Garden Salad</a>
+            <a href="nebula-berry-tart.html">Nebula Berry Tart</a>
+            <a href="comet-noodles.html">Comet Noodles</a>
+            <a href="aurora-risotto.html">Aurora Risotto</a>
+            <a href="photon-dumplings.html">Photon Dumplings</a>
+            <a href="stardust-flatbread.html">Stardust Flatbread</a>
+            <a href="eclipse-curry-bowl.html">Eclipse Curry Bowl</a>
+            <a href="moonbeam-pancakes.html">Moonbeam Pancakes</a>
+            <a href="meteor-mango-lassi.html">Meteor Mango Lassi</a>
+            <a href="galaxy-cocoa-parfait.html">Galaxy Cocoa Parfait</a>
+          </div>
+        </details>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main-content" class="page-shell">
+    <section class="page-banner">
+      <div>
+        <p class="eyebrow">Reader Notes</p>
+        <h1>Feedback Page</h1>
+        <p class="lead">
+          Share a simple note about the recipes, layout, or overall theme of Cosmic Feast Archive.
+          This is a static feedback page for presentation purposes, so it does not send data to a
+          server.
+        </p>
+      </div>
+      <div class="stat-grid" aria-label="Feedback information">
+        <article class="stat-card">
+          <p class="eyebrow">Form Type</p>
+          <p>Static HTML</p>
+        </article>
+        <article class="stat-card">
+          <p class="eyebrow">Use</p>
+          <p>Project Demo</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="feedback-layout">
+      <article class="panel">
+        <p class="eyebrow">Send a Note</p>
+        <h2>Simple feedback form</h2>
+        <form class="feedback-form" action="#" method="get">
+          <div class="form-grid">
+            <div class="field">
+              <label for="visitor-name">Name</label>
+              <input id="visitor-name" name="visitor_name" type="text" placeholder="Enter your name" required>
+            </div>
+            <div class="field">
+              <label for="visitor-email">Email</label>
+              <input id="visitor-email" name="visitor_email" type="email" placeholder="Enter your email" required>
+            </div>
+          </div>
+
+          <div class="form-grid">
+            <div class="field">
+              <label for="favorite-recipe">Favorite recipe</label>
+              <select id="favorite-recipe" name="favorite_recipe">
+                <option value="">Choose a recipe</option>
+                <option>Lunar Herb Pasta</option>
+                <option>Solar Spice Soup</option>
+                <option>Crystal Garden Salad</option>
+                <option>Nebula Berry Tart</option>
+                <option>Comet Noodles</option>
+                <option>Aurora Risotto</option>
+                <option>Photon Dumplings</option>
+                <option>Stardust Flatbread</option>
+                <option>Eclipse Curry Bowl</option>
+                <option>Moonbeam Pancakes</option>
+                <option>Meteor Mango Lassi</option>
+                <option>Galaxy Cocoa Parfait</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="site-rating">Rate the website</label>
+              <select id="site-rating" name="site_rating">
+                <option value="">Choose a rating</option>
+                <option>Excellent</option>
+                <option>Very Good</option>
+                <option>Good</option>
+                <option>Needs Improvement</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="field">
+            <label for="feedback-message">Message</label>
+            <textarea id="feedback-message" name="feedback_message" placeholder="Share your thoughts about the design, recipes, or overall experience." required></textarea>
+          </div>
+
+          <button class="button" type="submit">Submit Feedback</button>
+          <p class="muted">This form is included as a simple static page and does not store responses online.</p>
+        </form>
+      </article>
+
+      <aside class="panel">
+        <p class="eyebrow">Prompt Guide</p>
+        <h2>What you can comment on</h2>
+        <ul class="ingredient-list">
+          <li>The fantasy and sci-fi theme of the website</li>
+          <li>Your favorite recipe card or recipe page</li>
+          <li>The colors, layout, and readability</li>
+          <li>Navigation and ease of browsing</li>
+          <li>Ideas for future improvements</li>
+        </ul>
+        <p class="muted">This page works well as a simple extra feature while still staying fully HTML and CSS only.</p>
+      </aside>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-copy">
+        <p>Cosmic Feast Archive by Mehul Kumar.</p>
+        <p>&copy; 2026 Cosmic Feast Archive. All rights reserved.</p>
+      </div>
+      <nav class="footer-links" aria-label="Footer links">
+        <a href="about.html">About</a>
+        <a href="feedback.html">Feedback</a>
+        <a href="terms-and-conditions.html">Terms &amp; Conditions</a>
+        <a href="privacy-policy.html">Privacy Policy</a>
+        <a href="copyright-disclaimer.html">Copyright Disclaimer</a>
+      </nav>
+    </div>
+  </footer>
+</body>
+</html>
