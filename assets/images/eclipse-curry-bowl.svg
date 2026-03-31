@@ -1,0 +1,23 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#120D16"/>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="198" cy="136" r="54" fill="#F5D580" fill-opacity="0.12"/>
+  <circle cx="1008" cy="150" r="48" fill="#72E9FF" fill-opacity="0.11"/>
+  <ellipse cx="600" cy="450" rx="306" ry="166" fill="#EAF0FA" fill-opacity="0.12"/>
+  <ellipse cx="600" cy="450" rx="274" ry="140" fill="#D4DCEC" fill-opacity="0.86"/>
+  <ellipse cx="600" cy="450" rx="218" ry="98" fill="#4B2A1D"/>
+  <path d="M450 454C486 406 553 382 624 389C691 395 736 426 752 465C733 503 688 533 622 543C543 555 470 532 444 487C436 473 438 467 450 454Z" fill="#B66B2A"/>
+  <ellipse cx="694" cy="402" rx="72" ry="72" fill="#F5D580" fill-opacity="0.14"/>
+  <ellipse cx="694" cy="402" rx="49" ry="49" fill="#120D16"/>
+  <circle cx="532" cy="432" r="15" fill="#E0B55A"/>
+  <circle cx="617" cy="460" r="14" fill="#E0B55A"/>
+  <circle cx="675" cy="428" r="13" fill="#8CC56F"/>
+  <circle cx="582" cy="505" r="12" fill="#8CC56F"/>
+  <text x="600" y="710" text-anchor="middle" fill="#F8F0E1" font-size="58" font-family="Cormorant Garamond, serif">Eclipse Curry Bowl</text>
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 350) rotate(90) scale(470 690)">
+      <stop stop-color="#3A2022"/>
+      <stop offset="1" stop-color="#120D16"/>
+    </radialGradient>
+  </defs>
+</svg>

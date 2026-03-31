@@ -1,0 +1,24 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#0E0916"/>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="186" cy="144" r="56" fill="#B98FFF" fill-opacity="0.16"/>
+  <circle cx="1018" cy="150" r="48" fill="#72E9FF" fill-opacity="0.12"/>
+  <ellipse cx="600" cy="545" rx="190" ry="24" fill="#D5DBEA" fill-opacity="0.22"/>
+  <path d="M470 520H730L690 286H510L470 520Z" fill="#EAF0FA" fill-opacity="0.18"/>
+  <path d="M500 494H700L670 316H530L500 494Z" fill="#3B2546"/>
+  <rect x="520" y="453" width="160" height="42" fill="#62406F"/>
+  <rect x="520" y="407" width="160" height="34" fill="#E9D8B5"/>
+  <rect x="520" y="364" width="160" height="30" fill="#5C396D"/>
+  <circle cx="552" cy="335" r="18" fill="#FF7DA8"/>
+  <circle cx="602" cy="325" r="15" fill="#72E9FF"/>
+  <circle cx="649" cy="339" r="17" fill="#8D5DFF"/>
+  <circle cx="623" cy="301" r="6" fill="#F8F0E1"/>
+  <circle cx="575" cy="287" r="5" fill="#F8F0E1"/>
+  <text x="600" y="710" text-anchor="middle" fill="#F8F0E1" font-size="58" font-family="Cormorant Garamond, serif">Galaxy Cocoa Parfait</text>
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 350) rotate(90) scale(470 690)">
+      <stop stop-color="#2A1A42"/>
+      <stop offset="1" stop-color="#0E0916"/>
+    </radialGradient>
+  </defs>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#08121A"/>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="184" cy="132" r="54" fill="#7EF0FF" fill-opacity="0.15"/>
+  <circle cx="982" cy="155" r="48" fill="#9CF9C5" fill-opacity="0.14"/>
+  <ellipse cx="600" cy="450" rx="308" ry="168" fill="#EAF0FA" fill-opacity="0.12"/>
+  <ellipse cx="600" cy="450" rx="276" ry="142" fill="#D3DBEB" fill-opacity="0.88"/>
+  <ellipse cx="600" cy="450" rx="220" ry="98" fill="#EDF1D7"/>
+  <path d="M450 448C488 406 544 389 608 395C671 401 716 423 747 457C733 493 699 520 643 533C571 551 487 534 447 493C436 482 435 462 450 448Z" fill="#D1E089"/>
+  <path d="M470 396C522 364 604 353 684 366" stroke="#7EF0FF" stroke-width="12" stroke-linecap="round" opacity="0.78"/>
+  <path d="M495 371C550 336 628 331 707 345" stroke="#9CF9C5" stroke-width="12" stroke-linecap="round" opacity="0.7"/>
+  <circle cx="532" cy="427" r="14" fill="#8DC36A"/>
+  <circle cx="615" cy="458" r="13" fill="#719E55"/>
+  <circle cx="682" cy="425" r="13" fill="#8DC36A"/>
+  <circle cx="590" cy="505" r="12" fill="#719E55"/>
+  <text x="600" y="710" text-anchor="middle" fill="#F8F0E1" font-size="58" font-family="Cormorant Garamond, serif">Aurora Risotto</text>
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 350) rotate(90) scale(470 690)">
+      <stop stop-color="#16303B"/>
+      <stop offset="1" stop-color="#08121A"/>
+    </radialGradient>
+  </defs>
+</svg>

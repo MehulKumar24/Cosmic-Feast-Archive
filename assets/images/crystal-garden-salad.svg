@@ -1,0 +1,27 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#08131A"/>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="190" cy="150" r="62" fill="#7EF0FF" fill-opacity="0.12"/>
+  <circle cx="1000" cy="150" r="48" fill="#F4C46B" fill-opacity="0.12"/>
+  <circle cx="1032" cy="625" r="4" fill="#7EF0FF"/>
+  <circle cx="128" cy="618" r="5" fill="#9CF9C5"/>
+  <ellipse cx="600" cy="448" rx="312" ry="170" fill="#E9EFF9" fill-opacity="0.12"/>
+  <ellipse cx="600" cy="448" rx="280" ry="144" fill="#D2DBEA" fill-opacity="0.88"/>
+  <path d="M430 463C469 391 547 355 631 365C715 376 768 429 770 460C772 489 741 528 688 548C617 575 523 567 463 527C420 499 412 495 430 463Z" fill="#A8F0C0"/>
+  <circle cx="517" cy="425" r="27" fill="#D6FFF0"/>
+  <circle cx="611" cy="418" r="26" fill="#D6FFF0"/>
+  <circle cx="692" cy="452" r="30" fill="#C5FFD0"/>
+  <circle cx="565" cy="495" r="28" fill="#CCF7FF"/>
+  <circle cx="643" cy="512" r="23" fill="#B8E4FF"/>
+  <circle cx="707" cy="391" r="21" fill="#D6FFF0"/>
+  <path d="M490 374L530 420L470 435L490 374Z" fill="#8B6BFF" fill-opacity="0.7"/>
+  <path d="M664 379L704 426L644 440L664 379Z" fill="#FF87B4" fill-opacity="0.74"/>
+  <path d="M553 520L594 568L532 579L553 520Z" fill="#8B6BFF" fill-opacity="0.68"/>
+  <text x="600" y="710" text-anchor="middle" fill="#F8F0E1" font-size="58" font-family="Cormorant Garamond, serif">Crystal Garden Salad</text>
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 360) rotate(90) scale(480 700)">
+      <stop stop-color="#16323C"/>
+      <stop offset="1" stop-color="#08131A"/>
+    </radialGradient>
+  </defs>
+</svg>

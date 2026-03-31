@@ -1,0 +1,20 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#0F121D"/>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="180" cy="145" r="50" fill="#72E9FF" fill-opacity="0.12"/>
+  <circle cx="1016" cy="136" r="60" fill="#F8B44C" fill-opacity="0.16"/>
+  <path d="M450 512H750L712 300H488L450 512Z" fill="#EAF0FA" fill-opacity="0.18"/>
+  <path d="M472 486H728L700 324H500L472 486Z" fill="#F5B547"/>
+  <path d="M422 354C504 347 580 325 652 286C704 258 749 234 799 210" stroke="#F9D28A" stroke-width="18" stroke-linecap="round" opacity="0.78"/>
+  <circle cx="529" cy="361" r="14" fill="#F9D28A"/>
+  <circle cx="617" cy="392" r="12" fill="#FFF1D2"/>
+  <circle cx="666" cy="341" r="10" fill="#FFF1D2"/>
+  <ellipse cx="600" cy="518" rx="196" ry="24" fill="#D8E0EF" fill-opacity="0.22"/>
+  <text x="600" y="710" text-anchor="middle" fill="#F8F0E1" font-size="58" font-family="Cormorant Garamond, serif">Meteor Mango Lassi</text>
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 350) rotate(90) scale(470 690)">
+      <stop stop-color="#1E2437"/>
+      <stop offset="1" stop-color="#0F121D"/>
+    </radialGradient>
+  </defs>
+</svg>

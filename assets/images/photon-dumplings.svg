@@ -1,0 +1,23 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#0A111A"/>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="185" cy="138" r="46" fill="#72E9FF" fill-opacity="0.14"/>
+  <circle cx="1002" cy="152" r="56" fill="#F5D580" fill-opacity="0.12"/>
+  <ellipse cx="600" cy="450" rx="290" ry="160" fill="#EAF0FA" fill-opacity="0.1"/>
+  <ellipse cx="600" cy="450" rx="252" ry="132" fill="#D4DCEC" fill-opacity="0.86"/>
+  <ellipse cx="600" cy="450" rx="178" ry="78" fill="#202A36"/>
+  <path d="M476 440C476 419 493 402 515 402C537 402 554 419 554 440C554 460 537 477 515 477C493 477 476 460 476 440Z" fill="#F4E4C8"/>
+  <path d="M551 404C572 381 611 381 632 404C652 425 652 457 632 478C611 500 572 500 551 478C531 457 531 425 551 404Z" fill="#F4E4C8"/>
+  <path d="M646 402C667 381 705 381 726 402C747 423 747 457 726 478C705 499 667 499 646 478C625 457 625 423 646 402Z" fill="#F4E4C8"/>
+  <path d="M522 425C566 381 635 369 701 386" stroke="#72E9FF" stroke-width="10" stroke-linecap="round" opacity="0.75"/>
+  <circle cx="515" cy="440" r="7" fill="#6FB862"/>
+  <circle cx="591" cy="438" r="7" fill="#6FB862"/>
+  <circle cx="687" cy="440" r="7" fill="#6FB862"/>
+  <text x="600" y="710" text-anchor="middle" fill="#F8F0E1" font-size="58" font-family="Cormorant Garamond, serif">Photon Dumplings</text>
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 350) rotate(90) scale(470 690)">
+      <stop stop-color="#182534"/>
+      <stop offset="1" stop-color="#0A111A"/>
+    </radialGradient>
+  </defs>
+</svg>

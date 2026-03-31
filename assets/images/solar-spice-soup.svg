@@ -1,0 +1,25 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#120F18"/>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="170" cy="120" r="72" fill="#F7A738" fill-opacity="0.14"/>
+  <circle cx="1010" cy="180" r="56" fill="#72E9FF" fill-opacity="0.12"/>
+  <circle cx="103" cy="663" r="4" fill="#F7CB73"/>
+  <circle cx="980" cy="600" r="4" fill="#72E9FF"/>
+  <ellipse cx="600" cy="445" rx="310" ry="170" fill="#F2E8DD" fill-opacity="0.12"/>
+  <ellipse cx="600" cy="445" rx="278" ry="142" fill="#D0D8E5" fill-opacity="0.85"/>
+  <ellipse cx="600" cy="445" rx="228" ry="98" fill="#F49E35"/>
+  <path d="M445 430C476 387 545 365 618 379C684 392 721 422 755 446C733 487 685 519 619 527C550 535 477 509 442 461C434 449 434 440 445 430Z" fill="#F16F3C"/>
+  <circle cx="530" cy="430" r="16" fill="#F9C763"/>
+  <circle cx="616" cy="458" r="18" fill="#FFD067"/>
+  <circle cx="685" cy="420" r="15" fill="#F9C763"/>
+  <circle cx="570" cy="492" r="14" fill="#FFD067"/>
+  <circle cx="658" cy="500" r="12" fill="#F9C763"/>
+  <path d="M475 372C510 348 575 338 635 349C685 359 730 380 756 412" stroke="#FFDE86" stroke-width="10" stroke-linecap="round" opacity="0.8"/>
+  <text x="600" y="710" text-anchor="middle" fill="#F8F0E1" font-size="58" font-family="Cormorant Garamond, serif">Solar Spice Soup</text>
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 360) rotate(90) scale(480 700)">
+      <stop stop-color="#40211F"/>
+      <stop offset="1" stop-color="#120F18"/>
+    </radialGradient>
+  </defs>
+</svg>
